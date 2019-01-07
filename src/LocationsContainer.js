@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import MaterialIcons from 'material-icons-react';
 
 class LocationsContainer extends Component {
   render() {
